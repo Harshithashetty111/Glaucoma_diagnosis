@@ -1,0 +1,7 @@
+# React
+frontend/node_modules
+frontend/.env
+
+# FastAPI
+backend/__pycache__
+backend/.env
