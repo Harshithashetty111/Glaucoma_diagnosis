@@ -5,3 +5,16 @@ frontend/.env
 # FastAPI
 backend/__pycache__
 backend/.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Big ML models
+*.keras
+*.h5
+*.hdf5
+models/
+
+# (optional) editor settings
+.vscode/
