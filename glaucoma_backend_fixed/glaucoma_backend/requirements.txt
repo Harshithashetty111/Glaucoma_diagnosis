@@ -9,3 +9,5 @@ psycopg2-binary
 alembic
 Pillow
 numpy
+tensorflow==2.15.0
+keras>=3.3,<4
